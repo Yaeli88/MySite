@@ -1,0 +1,40 @@
+/* Reset s/* Reset some default styles */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set the background and font styles */
+ 
+h1 {
+	text-align: center;
+}
+p {
+text-align: center;
+
+}
+/* Container styling */
+.container {
+    background-color: rgba(255, 255, 255, 0.9); /* Se}
+
+
+body {
+    font-family: 'Poppins', sans-serif; /* שימוש בפונט Poppins */
+    background-color: #f0f0f0; /* צבע רקע */
+    padding: 20px; /* רווח פנימי */
+} 
+
+.poppins-text {
+    font-family: 'Poppins', sans-serif; /* פונט Poppins */
+    color: 
+}
+
+.container {
+    display: grid; /* משתמש ב-Grid */
+justify-content: center; /* מרכז אנכית */
+    align-items: center; /* מרכז אופקית */
+    text-align: center; /* מרכז את הטקסט */
+    height: 100%; /* גובה המיכל מלא */
+    background-color: #f0f0f0; /* צבע רקע */
+	align-items: center;
+}
