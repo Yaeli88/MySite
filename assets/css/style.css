@@ -197,7 +197,9 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     background:url(../images/about/welcome-banner.jpg)no-repeat;
     background-size:cover;
     background-position: center;
-    height:890px;
+    height:700px;
+	padding-top: 10px;
+
 }
 .welcome-hero:before{
     position:absolute;
@@ -387,9 +389,6 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     text-transform: uppercase;
     padding-bottom: 50px;
     border-bottom: 1px solid #e5ebf2;
-	color: #d92cf9;
-	 
-            
 }
 .single-progress-txt {
     display: flex;
@@ -896,5 +895,7 @@ h2 {
     margin-top: 50px; /* רווח של 50px מעל הכותרת */
 	padding: 10px 0; /* ריפוד חדש לכותרות */
     font-size: 24px; /* שינוי גודל הגופן של הכותרות */
+	color: #d92cf9;
 } 
+
 
